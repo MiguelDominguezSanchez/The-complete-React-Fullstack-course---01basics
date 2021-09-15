@@ -1,7 +1,7 @@
 import React from 'react'
 
 const NewsItem = ({ item }) => {
-	console.log(item)
+	// console.log(item)
 
 	return (
 		<div className='news_item'>
